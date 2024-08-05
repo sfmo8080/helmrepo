@@ -3,7 +3,7 @@ entries:
   demochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-04T17:45:25.411227-07:00"
+    created: "2024-08-04T17:48:18.532894-07:00"
     description: A Helm chart for Kubernetes
     digest: 4e688623fc6bffa139fe047a5db72ba08a08c4c1076b5fedd3876984046a8881
     name: demochart
@@ -14,7 +14,7 @@ entries:
   section7assignment:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-04T17:45:25.413481-07:00"
+    created: "2024-08-04T17:48:18.535531-07:00"
     dependencies:
     - condition: tomcat.enabled
       name: tomcat
@@ -27,4 +27,4 @@ entries:
     urls:
     - section7assignment-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-04T17:45:25.410425-07:00"
+generated: "2024-08-04T17:48:18.532413-07:00"
